@@ -2,8 +2,8 @@
 
 صفحه در حال به روز رسانی می باشد.
 
-wide recon:
-narrow recon:
+- wide recon:
+- narrow recon:
 مهمترین ابزارها و سایت های جمع آوری اطلاعات :
 
 
