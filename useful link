@@ -7,3 +7,9 @@ A list of open source web security scanners on GitHub and GitLab, ordered by Sta
 
 https://github.com/psiinon/open-source-web-scanners
 
+
+🚨 XXEinjector 🚨
+Tool for automatic exploitation of XXE vulnerability using direct and different out of band methods.
+
+https://github.com/enjoiz/XXEinjector
+
