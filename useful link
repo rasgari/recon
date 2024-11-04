@@ -14,11 +14,11 @@ Tool for automatic exploitation of XXE vulnerability using direct and different 
 https://github.com/enjoiz/XXEinjector
 
 
-Stored XSS on trix editor version 2.1.1
+🚨 Stored XSS on trix editor version 2.1.1 🚨 
 https://hackerone.com/reports/2521419
 
 
-XSS Payloads Cheatsheet ⚙️
+🚨 XSS Payloads Cheatsheet 🚨
 Execution Hacks : https://xss-payloads.paracyberbellum.io/cheatsheets/XSSPayloads-Execute-Cheatsheet.pdf
 
 
