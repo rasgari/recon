@@ -46,3 +46,9 @@ site:bitbucket.org "keyword"
 site:*atlassian.net "keyword"
 inurl:gitlab "keyword"
 inurl:github "keyword"
+
+
+🚀 Google Dorking 
+
+📄 SQL Errors
+site:[TARGET] AND (intext:"sql syntax near" | intext:"syntax error has occurred" | intext:"incorrect syntax near" | intext:"unexpected end of SQL command" | intext:"Warning: mysql_connect()" | intext:"Warning: mysql_query()" | intext:"Warning: pg_connect()")
