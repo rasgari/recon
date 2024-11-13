@@ -58,3 +58,60 @@ site:[TARGET] AND (intext:"sql syntax near" | intext:"syntax error has occurred"
 
 📄 Config Files:
 site:[TARGET] ext:xml | ext:conf | ext:cnf | ext:reg | ext:inf | ext:rdp | ext:cfg | ext:txt | ext:ora | ext:env | ext:inisite:[TARGET] ext:xml | ext:conf | ext:cnf | ext:reg | ext:inf | ext:rdp | ext:cfg | ext:txt | ext:ora | ext:env | ext:ini
+
+
+🚀 Google Dorks 
+
+# Google dorks helper
+https://dorks.faisalahmed.me
+# Ip search by dorking
+https://0iq.me/gip/
+
+# Code share sites
+site:http://ideone.com | site:http://codebeautify.org | site:http://codeshare.io | site:http://codepen.io | site:http://repl.it | site:http://jsfiddle.net "company"
+# GitLab/GitHub/Bitbucket
+site:http://github.com | site:http://gitlab.com | site:http://bitbucket.org "company"
+# Stackoverflow
+site:http://stackoverflow.com "http://target.com"
+# Project management sites
+site:http://trello.com | site:*.atlassian.net "company"
+# Pastebin-like sites
+site:http://justpaste.it | site:http://pastebin.com "company"
+# Config files
+site:http://target.com ext:xml | ext:conf | ext:cnf | ext:reg | ext:inf | ext:rdp | ext:cfg | ext:txt | ext:ora | ext:env | ext:ini
+# Database files
+site:http://target.com ext:sql | ext:dbf | ext:mdb
+# Backup files
+site:http://target.com ext:bkf | ext:bkp | ext:bak | ext:old | ext:backup
+# .git folder
+inurl:"/.git" http://target.com -github
+# Exposed documents
+site:http://target.com ext:doc | ext:docx | ext:odt | ext:pdf | ext:rtf | ext:sxw | ext:psw | ext:ppt | ext:pptx | ext:pps | ext:csv
+# Other files
+site:http://target.com intitle:index.of | ext:log | ext:php intitle:phpinfo "published by the PHP Group" | inurl:shell | inurl:backdoor | inurl:wso | inurl:cmd | shadow | passwd | boot.ini | inurl:backdoor | inurl:readme | inurl:license | inurl:install | inurl:setup | inurl:config | inurl:"/phpinfo.php" | inurl:".htaccess" | ext:swf
+# SQL errors
+site:http://target.com intext:"sql syntax near" | intext:"syntax error has occurred" | intext:"incorrect syntax near" | intext:"unexpected end of SQL command" | intext:"Warning: mysql_connect()" | intext:"Warning: mysql_query()" | intext:"Warning: pg_connect()"
+# PHP errors
+site:http://target.com "PHP Parse error" | "PHP Warning" | "PHP Error"
+# Login pages
+site:http://target.com inurl:signup | inurl:register | intitle:Signup
+# Open redirects
+site:http://target.com inurl:redir | inurl:url | inurl:redirect | inurl:return | inurl:src=http | inurl:r=http
+# Apache Struts RCE
+site:http://target.com ext:action | ext:struts | ext:do
+# Search in pastebin
+site:http://pastebin.com http://target.com
+# Linkedin employees
+site:http://linkedin.com employees http://target.com
+# Wordpress files
+site:http://target.com inurl:wp-content | inurl:wp-includes
+# Subdomains
+site:*.target.com
+# Sub-subdomains
+site:*.*.target.com
+#Find S3 Buckets
+site:.s3.amazonaws.com | site:http://storage.googleapis.com | site:http://amazonaws.com "target"
+# Traefik
+intitle:traefik inurl:8080/dashboard "target"
+# Jenkins
+intitle:"Dashboard [Jenkins]"
