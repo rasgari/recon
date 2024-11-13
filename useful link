@@ -61,3 +61,7 @@ https://github.com/0xRadi/OWASP-Web-Checklist
 
 🚨 Availability Impact from Exploiting Project Name Vulnerabilities 🚨
 https://hackerone.com/reports/2801036
+
+
+🚨 IDOR in backup recovery functionality 🚨
+https://hackerone.com/reports/1901713
