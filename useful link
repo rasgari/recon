@@ -88,3 +88,7 @@ https://github.com/ac-pm/Inspeckage
 
 🚨 Open redirect when logging in with user_oidc 🚨
 https://hackerone.com/reports/2720030
+
+
+🚨 Pandora : A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers. 🚨
+https://github.com/efchatz/pandora
