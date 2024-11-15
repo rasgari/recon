@@ -12,7 +12,7 @@ https://github.com/SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveM
 
 =============================
 
-🚀 GIT Tools 
+🚀 GIT Tools 🚀
 
 # https://github.com/obheda12/GitDorker
 python3 http://GitDorker.py -tf TOKENSFILE -q http://tesla.com -d dorks/DORKFILE -o target
@@ -32,6 +32,10 @@ python http://git-wild-hunt.py -s "extension:json filename:creds language:JSON"
 # GitLab (API token required)
 # https://github.com/codeEmitter/token-hunter
 ./token-hunter.py -g 123456
+
+
+🚀 Clickjacking 🚀
+Tool to detetct : https://github.com/machine1337/clickjack
 
 =============================
 🚨 open-source-web-scanners 🚨 
