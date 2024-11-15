@@ -12,6 +12,28 @@ https://github.com/SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveM
 
 =============================
 
+🚀 GIT Tools 
+
+# https://github.com/obheda12/GitDorker
+python3 http://GitDorker.py -tf TOKENSFILE -q http://tesla.com -d dorks/DORKFILE -o target
+
+# https://github.com/dxa4481/truffleHog
+trufflehog https://github.com/Plazmaz/leaky-repo
+trufflehog --regex --entropy=False https://github.com/Plazmaz/leaky-repo
+
+# https://github.com/eth0izzle/shhgit
+shhgit --search-query AWS_ACCESS_KEY_ID=AKIA
+
+# https://github.com/d1vious/git-wild-hunt
+python http://git-wild-hunt.py -s "extension:json filename:creds language:JSON"
+
+# https://shhgit.darkport.co.uk
+
+# GitLab (API token required)
+# https://github.com/codeEmitter/token-hunter
+./token-hunter.py -g 123456
+
+=============================
 🚨 open-source-web-scanners 🚨 
 A list of open source web security scanners on GitHub and GitLab, ordered by Stars. It does not provide in-depth analysis - for more analysis or a wider range of tools, see the links below.
 https://github.com/psiinon/open-source-web-scanners
