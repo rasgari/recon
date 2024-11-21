@@ -121,3 +121,17 @@ site:.s3.amazonaws.com | site:http://storage.googleapis.com | site:http://amazon
 intitle:traefik inurl:8080/dashboard "target"
 # Jenkins
 intitle:"Dashboard [Jenkins]"
+
+=============================================================================
+Here’s a list of 10 Github dorks to find secret and access tokens:
+1“http://target.com” send_keys
+2“http://target.com” password
+3“http://target.com” api_key
+4“http://target.com” apikey
+5“http://target.com” jira_password
+6“http://target.com” root_password
+7“http://target.com” access_token
+8“http://target.com” config
+9“http://target.com” client_secret
+10“http://target.com” user auth
+
