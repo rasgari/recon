@@ -1,0 +1,10 @@
+commands:
+
+===>>> dork:
+       "index of /.git" site:ir
+
+==============================================================
+
+download git
+
+wget -r --no-parent  address --no-check-certificate
