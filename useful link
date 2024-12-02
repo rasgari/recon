@@ -45,6 +45,10 @@ Tool to detetct : https://github.com/machine1337/clickjack
 All-sources tool to search websites by favicons
 https://github.com/sharsil/favicorn
 
+
+🚀 ParamScan 🚀
+ParamScan is a chrome extension for finding reflected parameters in a webpage.
+https://github.com/ch1y0w0/ParamScan
 =============================
 🚨 open-source-web-scanners 🚨 
 A list of open source web security scanners on GitHub and GitLab, ordered by Stars. It does not provide in-depth analysis - for more analysis or a wider range of tools, see the links below.
