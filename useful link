@@ -72,6 +72,9 @@ A high-speed tool for passively gathering URLs, optimized for efficient and comp
 https://github.com/projectdiscovery/urlfinder
 
 
+🚨 Buffer Overflow Vulnerability in strcpy() Leading to Remote Code Execution 🚨
+https://hackerone.com/reports/2871792
+
 🚨 open redirected by host header 🚨
 https://hackerone.com/reports/2828499
 
