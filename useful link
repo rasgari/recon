@@ -67,6 +67,10 @@ Execution Hacks : https://xss-payloads.paracyberbellum.io/cheatsheets/XSSPayload
 🚨 OSCP Practical Notes 🚨
 https://hackito.notion.site/OSCP-Practical-Notes-8126294579314b908fc6e453d480c145
 
+🚨 URLFinder 🚨
+A high-speed tool for passively gathering URLs, optimized for efficient and comprehensive web asset discovery without active scanning.
+https://github.com/projectdiscovery/urlfinder
+
 
 🚨 open redirected by host header 🚨
 https://hackerone.com/reports/2828499
