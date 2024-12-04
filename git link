@@ -52,6 +52,9 @@ https://github.com/ch1y0w0/ParamScan
 
 ==========================================================
 
+🚨 Bug bounty methodology 🚨
+https://github.com/1ndianl33t/Bug-Bounty-Roadmaps/blob/master/Bug%20Bounty%20methodology%20v4%20by%20%40jhaddix.jpg
+
 🚨 ShadowHound 🚨
 PowerShell scripts for alternative SharpHound enumeration, including users, groups, computers, and certificates, using the ActiveDirectory module (ADWS) or System.DirectoryServices class (LDAP).
 https://github.com/Friends-Security/ShadowHound
