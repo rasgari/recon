@@ -51,6 +51,10 @@ ParamScan is a chrome extension for finding reflected parameters in a webpage.
 https://github.com/ch1y0w0/ParamScan
 
 ==========================================================
+🚨 JShunter is a command-line tool designed for analyzing JavaScript files and extracting endpoints 🚨 
+This tool specializes in identifying sensitive data, such as API endpoints and potential security vulnerabilities, making it an essential resource for developers and security researchers.
+https://github.com/cc1a2b/jshunter
+
 
 🚨  ParamScan 🚨 
 ParamScan is a chrome extension for finding reflected parameters in a webpage.
