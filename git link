@@ -51,6 +51,10 @@ ParamScan is a chrome extension for finding reflected parameters in a webpage.
 https://github.com/ch1y0w0/ParamScan
 
 ==========================================================
+🚨 Ligolo-ng 🚨
+An advanced, yet simple, tunneling tool that uses TUN interfaces.
+https://github.com/nicocha30/ligolo-ng
+
 🚨 Domain Checker Tool 🚨
 A high-performance Go-based tool for checking the availability and responsiveness of domains, utilizing both HTTP requests and browser automation for comprehensive analysis. 
 https://github.com/murat-exp/Domain-Checker-Tool
