@@ -1,5 +1,8 @@
 medium link
 
+🚨 IDOR leads to leak private user’s data 🚨
+https://medium.com/@banertheinrich/idor-leads-to-leak-private-users-data-3a2b59f58826?source=rss------bug_bounty-5
+
 🚨 How I Exploited Amazon Cognito Misconfigurations to Access Confidential S3 Data 🚨
 https://1-day.medium.com/how-i-exploited-amazon-cognito-misconfigurations-to-access-confidential-s3-data-badb62cabfab?source=rss------bug_bounty-5
 
