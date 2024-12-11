@@ -1,5 +1,61 @@
 site link
 
+
+✅ Recon - Subdomain Enumeration
+
+🔍 Sublist3r - Fast subdomains enumeration tool for penetration testers
+🔎 Amass - In-depth Attack Surface Mapping and Asset Discovery
+⚡ massdns - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
+🚀 Findomain - The fastest and cross-platform subdomain enumerator, do not waste your time.
+🕵️‍♂️ Sudomy - Automated subdomain collection and analysis for bug hunting/pentesting
+📡 chaos-client - Go client to communicate with Chaos DNS API
+🛠 domained - Multi-tool for subdomain enumeration
+🎥 bugcrowd-levelup-subdomain-enumeration - Materials from the talk "Esoteric sub-domain enumeration techniques"
+🔁 shuffledns - Wrapper around massdns for active bruteforce and resolving subdomains
+🎯 puredns - Fast domain resolver with accurate wildcard filtering
+🔐 censys-subdomain-finder - Use Censys' certificate transparency logs for subdomain enumeration
+⚙️ Turbolist3r - Subdomain enumeration with domain analysis features
+📜 censys-enumeration - Extract subdomains/emails using SSL/TLS datasets on Censys
+⏩ tugarecon - Fast subdomain enumeration tool for penetration testers
+🔑 as3nt - Another Subdomain ENumeration Tool
+🌐 Subra - A Web-UI for subdomain enumeration (subfinder)
+🛡 Substr3am - Passive recon watching SSL certificates for interesting targets
+📂 domain-enumall - http://enumall.py setup for Regon-ng
+🔀 altdns - Generate and resolve subdomain permutations/mutations
+⚔️ brutesubs - Framework for running multiple subdomain bruteforcing tools
+🏃 dns-parallel-prober - Parallelised domain name prober for fast subdomain discovery
+🐍 dnscan - Wordlist-based DNS subdomain scanner (Python)
+🔗 knock - Knockpy for subdomain enumeration via wordlists
+📥 hakrevdns - Perform reverse DNS lookups en masse
+⚡ dnsx - Fast multi-purpose DNS toolkit for multiple query types
+🔍 subfinder - Discovery tool for valid subdomains
+🏷 assetfinder - Find domains and subdomains related to a given domain
+📜 crtndstry - Another subdomain finder using certificates
+🕵️ VHostScan - Virtual host scanner performing reverse lookups
+🌊 scilla - Info-gathering tool for DNS/subdomains/ports/directories
+🎨 sub3suite - Research-grade suite for subdomain enumeration and recon
+🔎 cero - Scrape domain names from SSL certificates
+🔐 shosubgo - Grab subdomains using Shodan API
+🛠 haktrails - Golang client for querying SecurityTrails API data
+🤖 bbot - A recursive internet scanner for hackers
+
+====================================================================
+
+security headers: 
+===>>> https://securityheaders.com/
+
+====================================================================
+
+OSINT  - A community for experts & seasoned OSINT practitioners.
+===>>> https://osint.wiki
+
+====================================================================
+
+می‌خوای آزمون تافل یا آیلتس بدی؟! قطعا این سایتا بدردت میخوره!
+===>>> http://magoosh.com/
+
+====================================================================
+
 💻 معرفی بهترین سایت‌ها برای چالش و تمرین در یادگیری برنامه نویسی 
 
 ➕ وب‌سایت CodeWars
@@ -25,14 +81,3 @@ site link
 
 
 ====================================================================
-security headers: 
-===>>> https://securityheaders.com/
-====================================================================
-
-OSINT  - A community for experts & seasoned OSINT practitioners.
-===>>> https://osint.wiki
-
-====================================================================
-
-می‌خوای آزمون تافل یا آیلتس بدی؟! قطعا این سایتا بدردت میخوره!
-===>>> http://magoosh.com/
