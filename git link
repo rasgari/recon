@@ -52,6 +52,10 @@ https://github.com/ch1y0w0/ParamScan
 
 ==========================================================
 
+🚨 AzureAD-Attack-Defense 🚨
+This publication is a collection of various common attack scenarios on Microsoft Entra ID (formerly known as Azure Active Directory) and how they can be mitigated or detected.
+https://github.com/Cloud-Architekt/AzureAD-Attack-Defense?tab=readme-ov-file
+
 🚨 PHPStan - PHP Static Analysis Tool 🚨
 https://github.com/phpstan/phpstan
 
