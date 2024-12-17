@@ -52,6 +52,11 @@ https://github.com/ch1y0w0/ParamScan
 
 ==========================================================
 
+
+🛡️ OPSEC Tools 🛡️
+This tool consists of 4 different bash scripts designed to help you configure, manage and monitor your security-focused systems. Below you can find detailed information about the tool and instructions for use.
+https://github.com/qw3r1y/OpseC
+
 🚨 AzureAD-Attack-Defense 🚨
 This publication is a collection of various common attack scenarios on Microsoft Entra ID (formerly known as Azure Active Directory) and how they can be mitigated or detected.
 https://github.com/Cloud-Architekt/AzureAD-Attack-Defense?tab=readme-ov-file
