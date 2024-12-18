@@ -52,6 +52,10 @@ https://github.com/ch1y0w0/ParamScan
 
 ==========================================================
 
+🛡️ Hawk-eye 🛡️
+A powerful scanner to scan your Filesystem, S3, MySQL, Redis, Google Cloud Storage and Firebase storage for PII and sensitive data.
+https://github.com/rohitcoder/hawk-eye
+
 🛡️ CVE-2024-53677 – Critical Apache Struts Remote Code Execution Vulnerability 🛡️
 https://github.com/TAM-K592/CVE-2024-53677-S2-067
 
