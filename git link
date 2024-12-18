@@ -52,6 +52,10 @@ https://github.com/ch1y0w0/ParamScan
 
 ==========================================================
 
+🛡️ Microsoft-Analyzer-Suite 🛡️
+A collection of PowerShell scripts for analyzing data from Microsoft 365 and Microsoft Entra ID
+https://github.com/evild3ad/Microsoft-Analyzer-Suite
+
 🛡️ Hawk-eye 🛡️
 A powerful scanner to scan your Filesystem, S3, MySQL, Redis, Google Cloud Storage and Firebase storage for PII and sensitive data.
 https://github.com/rohitcoder/hawk-eye
