@@ -52,6 +52,8 @@ https://github.com/ch1y0w0/ParamScan
 
 ==========================================================
 
+🛡️ CVE-2024-53677 – Critical Apache Struts Remote Code Execution Vulnerability 🛡️
+https://github.com/TAM-K592/CVE-2024-53677-S2-067
 
 🛡️ OPSEC Tools 🛡️
 This tool consists of 4 different bash scripts designed to help you configure, manage and monitor your security-focused systems. Below you can find detailed information about the tool and instructions for use.
