@@ -52,6 +52,10 @@ https://github.com/ch1y0w0/ParamScan
 
 ==========================================================
 
+🛡️ GitIngest 🛡️
+Replace 'hub' with 'ingest' in any github url to get a prompt-friendly (con)text to paste into any LLM
+https://github.com/cyclotruc/gitingest
+
 🛡️ Microsoft-Analyzer-Suite 🛡️
 A collection of PowerShell scripts for analyzing data from Microsoft 365 and Microsoft Entra ID
 https://github.com/evild3ad/Microsoft-Analyzer-Suite
