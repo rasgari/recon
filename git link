@@ -52,6 +52,9 @@ https://github.com/ch1y0w0/ParamScan
 
 ==========================================================
 
+🛡️ garak, LLM vulnerability scanner 🛡️
+https://github.com/NVIDIA/garak
+
 🛡️ GitIngest 🛡️
 Replace 'hub' with 'ingest' in any github url to get a prompt-friendly (con)text to paste into any LLM
 https://github.com/cyclotruc/gitingest
