@@ -1,0 +1,82 @@
+SIEM Use Cases For Cybersecurity Analyst
+
+1.Brute Force Detection
+2.Malware Detection
+http://3.Data Exfiltration Detection
+4.Suspicious Network Activity
+5.Phishing Email Detection
+6.Unauthorised Access Attempt
+7.Suspicious File Download
+8.Privilege Escalation Attempt
+9.Lateral Movement Detection
+10.Command and Control (C2) Traffic Detection
+11.Anomalous User Behavior
+12.DNS Tunneling Detection
+13.Insider Threat Detection
+14.Suspicious Process Execution
+15.File Integrity Monitoring
+16.Web Server Attack Detection
+17.Unusual Login Location
+18.DDoS Attack Detection
+19.Ransomware Activity Detection
+20.Exploit Attempt Detection
+21.Failed Login Attempts Threshold
+22.Credential Dumping Detection
+23.Port Scanning Activity
+24.Suspicious PowerShell Command Execution
+25.Rogue Access Point Detection
+http://26.New Service Installation
+27.Anomalous Database Query
+28.Unauthorised File Access
+29.Suspicious USB Device Activity
+30.Firewall Policy Change Detection
+31.Privileged Account Login Outside Business Hours
+32.Endpoint Isolation Trigger
+33.Suspicious Registry Key Modification
+http://34.Active Directory Enumeration
+http://35.Email Spoofing Detection
+36.Suspicious Application Installation
+37.HTTP Anomalies Detection
+http://38.Network Traffic Spikes
+39.User Account Creation
+40.File Encryption Activity Detection
+41.Suspicious VPN Connection
+42.DNS Query for Known Malicious Domains
+43.Unusual Process Parent-Child Relationship
+44.SMB Lateral Movement Detection
+45.Excessive File Access by a Single User
+46.Suspicious Archive File Extraction
+47.Detection of Default or Weak Credentials
+48.Suspicious Scheduled Task Creation
+49.Remote Desktop Protocol (RDP) Anomalies
+50.Beaconing Traffic Detection
+51.Shadow IT Application Usage
+http://52.Cloud Storage Upload Spikes
+53.Unauthorised Configuration Change
+54.Tor Network Connection Detection
+55.Anomalous File Deletion Patterns
+56.Unauthorised API Call Detection
+57.System Crash Dump Access
+58.Browser Exploit Detection
+59.Abnormal SSL Certificate Usage
+60.Suspicious Script Execution in Browsers
+61.Suspicious Outbound Traffic Volume
+http://62.Email Attachment with Executable Files
+63.Unauthorised Network Share Access
+64.Excessive Admin Privilege Assignments
+65.Anomalous Device Connection in Network
+66.Suspicious Command Execution in CLI
+67.Endpoint Beaconing to Non-Standard Port
+68.Exploit Kit Activity Detection
+69.Unauthorised Cloud Account Login
+70.Excessive DNS Requests to External Servers
+71.Suspicious DHCP Activity
+72.Unauthorised Firmware Updates
+73.Unusual IoT Device Behavior
+74.Credential Harvesting Attempt Detection
+75.Abuse of Remote Management Tools
+76.Unauthorised Access to Backup Files
+77.Unusual Binary Execution from Temp Directory
+78.Suspicious ZIP/RAR File Creation
+79.Unauthorised Access to Financial Data
+80.Abuse of Group Policy Objects (GPO)
