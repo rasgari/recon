@@ -1,5 +1,8 @@
 other link:
 
+🚨 Apache Airflow: Sensitive Information Exposure in DAG Run Logs 🚨
+https://hackerone.com/reports/2828271 
+
 🚨 Lack of URL Validation in avatarUrl at /v4/profile 🚨
 https://hackerone.com/reports/2493860
 
