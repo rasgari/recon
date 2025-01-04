@@ -63,6 +63,10 @@ Github: https://github.com/reddelexc/hackerone-reports
 
 ==========================================================
 
+🛡️ Subdosec 🛡️ 
+Subdosec is not just a fast and accurate subdomain takeover scanner with no false positives. It also provides a complete database containing a list of sites vulnerable to subdomain takeover (public results), as well as detailed non-vuln subdomain metadata information such as IP, CNAME, TITLE, and STATUS CODE, which you can use for reconnaissance to find sites that may be vulnerable to subdomain takeover on new services
+https://github.com/xcapri/subdosec
+
 🛡️ GoSearch 🛡️
 🔍 OSINT tool for searching people's digital footprint and leaked passwords across various social networks, written in Go.
 https://github.com/ibnaleem/gosearch
