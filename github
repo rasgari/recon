@@ -65,6 +65,11 @@ Github: https://github.com/reddelexc/hackerone-reports
 
 ==========================================================
 
+🛡️ GoSearch 🛡️
+🔍 OSINT tool for searching people's digital footprint and leaked passwords across various social networks, written in Go.
+https://github.com/ibnaleem/gosearch
+
+
 🛡️ NucleiFuzzer 🛡️
 NucleiFuzzer is a robust automation tool designed for efficiently detecting web application vulnerabilities, including XSS, SQLi, SSRF, and Open Redirects, leveraging advanced scanning and URL enumeration techniques
 https://github.com/0xKayala/NucleiFuzzer
