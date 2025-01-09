@@ -65,6 +65,10 @@ Github: https://github.com/reddelexc/hackerone-reports
 
 ==========================================================
 
+🛡️ NucleiFuzzer 🛡️
+NucleiFuzzer is a robust automation tool designed for efficiently detecting web application vulnerabilities, including XSS, SQLi, SSRF, and Open Redirects, leveraging advanced scanning and URL enumeration techniques
+https://github.com/0xKayala/NucleiFuzzer
+
 🛡️ OWASP OFFAT 🛡️
 OWASP OFFAT (OFFensive Api Tester) is created to automatically test API for common vulnerabilities after generating tests from openapi specification file. It provides feature to automatically fuzz inputs and use user provided inputs during tests specified via YAML config file.
 https://github.com/OWASP/OFFAT
