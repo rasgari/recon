@@ -1,5 +1,8 @@
 other link:
 
+🚨 WAF bypass and java script incomplete handling of Unicode characters might leads to dom-xss 🚨
+https://hackerone.com/reports/2921905
+
 🚨 I Changed Someone’s Profile Picture… And They Had No Idea!! 🚨
 https://infosecwriteups.com/i-changed-someones-profile-picture-and-they-had-no-idea-a1dc621d12c4?source=rss------bug_bounty-5
 
