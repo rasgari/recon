@@ -65,6 +65,10 @@ Github: https://github.com/reddelexc/hackerone-reports
 
 ==========================================================
 
+🛡️ CrowdSec 🛡️ 
+the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
+https://github.com/crowdsecurity/crowdsec
+
 🛡️ OffSec Exam HTB Lists 🛡️
 TJNull maintains a list of good HackTheBox and other machines to play to prepare for various OffSec exams, including OSCP, OSWE, and OSEP. This page will keep up with that list and show my writeups associated with those boxes. For each of these certifications, there’s a “like” list that includes boxes that are similar in skills and difficulty to the challenges you will encounter in the exam, as well as a “harder” list that includes the same techniques but in more complicated and/or difficult scenarios.
 https://0xdf.gitlab.io/cheatsheets/offsec
