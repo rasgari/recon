@@ -1,5 +1,8 @@
 medium link:
 
+🚨 Reflected XSS protected by very strict CSP, with dangling markup attack (Port Swigger XSS Lab) 🚨
+https://medium.com/@hackllego/reflected-xss-protected-by-very-strict-csp-with-dangling-markup-attack-port-swigger-xss-lab-e8811c2e476d?source=rss------bug_bounty-5
+
 🚨 Bug Bounty Programs: YES or NO? 🚨
 https://medium.com/@hackrate/bug-bounty-programs-yes-or-no-6b866eea8b01?source=rss------bug_bounty-5
 
