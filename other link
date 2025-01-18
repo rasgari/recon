@@ -1,5 +1,8 @@
 other link:
 
+🚨 CVE-2022-40604: Apache Airflow: Format String Vulnerability 🚨
+https://hackerone.com/reports/1707287
+
 🚨 WAF bypass and java script incomplete handling of Unicode characters might leads to dom-xss 🚨
 https://hackerone.com/reports/2921905
 
