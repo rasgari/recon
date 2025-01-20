@@ -65,6 +65,11 @@ Github: https://github.com/reddelexc/hackerone-reports
 
 ==========================================================
 
+
+🛡️  WayBackup Finder  🛡️
+This Python script fetches URLs from the Wayback Machine and filters them based on specified file extensions. It also checks if archived snapshots are available for each URL and saves the filtered URLs to files.
+https://github.com/anmolksachan/WayBackupFinder
+
 🛡️ PoC collection of Atlassian(Jira, Confluence, Bitbucket) products and Jenkins, Solr, Nexus,etc 🛡️
 http://github.com/shadowsock5/Poc
 
