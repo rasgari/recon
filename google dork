@@ -141,3 +141,8 @@ Find Java scripts file
 assetfinder --subs-only HOST | gau | egrep -v '(.css|.png|.jpeg|.jpg|.svg|.gif|.wolf)' | while read url; do vars=$(curl -s $url | grep -Eo "var [a-zA-Zo-9_]+" | sed -e 's, 'var','"$url"?',g' -e 's/ //g' | grep -v '.js' | sed 's/.*/&=xss/g'):echo -e "\e[1;33m$url\n" "\e[1;32m$vars"; done
 
 =========================================================================
+
+Manual Subdomain Enumeration 🔎
+Dork :- site:*.domain.com -site:www .domain.com
+
+=========================================================================
