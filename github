@@ -65,6 +65,10 @@ Github: https://github.com/reddelexc/hackerone-reports
 
 ==========================================================
 
+🛡️ Fuxploider 🛡️ 
+a free tool for finding and exploiting flaws in file upload forms. It spots allowed file types and finds out the best way to upload malicious files onto a website.
+https://github.com/almandin/fuxp
+
 🛡️ SqliSniper 🛡️
 Advanced Time-based Blind SQL Injection fuzzer for HTTP Headers
 https://github.com/danialhalo/SqliSniper
