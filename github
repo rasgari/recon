@@ -65,6 +65,10 @@ Github: https://github.com/reddelexc/hackerone-reports
 
 ==========================================================
 
+🛡️ Payloads for Server Side Template Injection (SSTI) 🛡️
+Repo 1 
+https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20Injection
+
 🛡️ Automated your hunting process for SSTI 🛡️
 clone this repository 
 https://github.com/vladko312/SSTImap
