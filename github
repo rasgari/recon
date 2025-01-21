@@ -65,7 +65,11 @@ Github: https://github.com/reddelexc/hackerone-reports
 
 ==========================================================
 
-https://github.com/vavkamil/awesome-bugbounty-tools.git
+🛡️ Automated your hunting process for SSTI 🛡️
+clone this repository 
+https://github.com/vladko312/SSTImap
+
+🛡️ https://github.com/vavkamil/awesome-bugbounty-tools.git 🛡️
 
 🛡️ Fuxploider 🛡️ 
 a free tool for finding and exploiting flaws in file upload forms. It spots allowed file types and finds out the best way to upload malicious files onto a website.
