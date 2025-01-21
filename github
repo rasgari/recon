@@ -65,6 +65,9 @@ Github: https://github.com/reddelexc/hackerone-reports
 
 ==========================================================
 
+🛡️ SqliSniper 🛡️
+Advanced Time-based Blind SQL Injection fuzzer for HTTP Headers
+https://github.com/danialhalo/SqliSniper
 
 🛡️  WayBackup Finder  🛡️
 This Python script fetches URLs from the Wayback Machine and filters them based on specified file extensions. It also checks if archived snapshots are available for each URL and saves the filtered URLs to files.
