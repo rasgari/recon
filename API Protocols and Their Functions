@@ -1,0 +1,26 @@
+🌐 REST (Representational State Transfer)
+A lightweight protocol ideal for web-based applications, using standard HTTP methods to enable communication between clients and servers.
+
+🔗 SOAP (Simple Object Access Protocol)
+A robust protocol for enterprise-level applications, offering structured messaging and higher security standards for critical data.
+
+📡 GraphQL
+A flexible query language allowing clients to request specific data, optimizing performance and minimizing over-fetching.
+
+📤 gRPC
+A modern, high-performance protocol for microservices, enabling efficient communication with support for multiple languages.
+
+💬 WebSocket
+Enables real-time, two-way communication between clients and servers, making it perfect for applications like chat or live streaming.
+
+📦 JSON-RPC
+A simple, lightweight remote procedure call protocol that uses JSON for data formatting, ideal for low-complexity communication.
+
+🔐 OAuth
+A protocol designed for secure user authorization, allowing access to resources without exposing user credentials.
+
+🚀 XML-RPC
+A straightforward protocol that uses XML to encode calls, making it a great choice for simpler integrations.
+
+🌉 AMQP (Advanced Message Queuing Protocol)
+A messaging protocol that supports complex message queuing, ensuring reliable communication between distributed systems.
