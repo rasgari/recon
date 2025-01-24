@@ -64,6 +64,10 @@ https://github.com/securitycipher/awsome-security-mindmaps/blob/main/FTP%20Pente
 Github: https://github.com/reddelexc/hackerone-reports
 
 ==========================================================
+ 
+🛡️ HExHTTP  - Header Exploitation HTTP 🛡️
+HExHTTP is a tool designed to perform tests on HTTP headers and analyze the results to identify vulnerabilities and interesting behaviors.
+https://github.com/c0dejump/HExHTTP
 
 🛡️ Payloads for Server Side Template Injection (SSTI) 🛡️
 Repo 1 
