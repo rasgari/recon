@@ -1,5 +1,8 @@
 other link:
 
+🚨 Usage of unsafe random function in undici for choosing boundary 🚨
+https://hackerone.com/reports/2913312
+
 🚨 POST based Cross-Site Scripting on IBM research endpoint 🚨
 https://hackerone.com/reports/2899380
 
