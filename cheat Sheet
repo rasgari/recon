@@ -2,3 +2,58 @@ cheat Sheet:
 
 Docker Security Complete Cheat Sheet.
 Cheatsheet: https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html
+
+===========================================================================
+
+
+🚀 Level Up Your Bug Bounty Game! 🚀  
+
+Here’s a quick list of must-have tools categorized for your bug bounty hunts:  
+
+🔍 Recon & Enumeration  
+- Amass  
+- Sublist3r  
+- Assetfinder  
+- Shodan  
+- Censys  
+
+💉 Vulnerability Scanning  
+- Nuclei  
+- Nikto  
+- Wapiti  
+- OpenVAS  
+
+🌐 Web Proxies  
+- Burp Suite  
+- OWASP ZAP  
+- Caido  
+
+📡 Network Tools  
+- Nmap  
+- Masscan  
+- Netcat  
+
+🔑 Authentication Testing  
+- Hydra  
+- Wfuzz  
+- Patator  
+
+📂 File Analysis  
+- ExifTool  
+- Binwalk  
+- Strings  
+
+📝 Exploitation Frameworks  
+- Metasploit  
+- SQLmap  
+- XSStrike  
+
+📊 Automation & Workflow  
+- Recon-ng  
+- Sn1per  
+- BugBountyHunter  
+
+💡 Miscellaneous  
+- JWT_tool  
+- GitTools  
+- Waybackurls  
