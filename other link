@@ -18,6 +18,12 @@ https://hackerone.com/reports/2396571
 
 ===============================================================================
 
+Path traversal
+
+🚨 Path traversal by drive name in Windows environment 🚨
+https://hackerone.com/reports/2307225
+
+===============================================================================
 
 🚨 Public google drive link Exposes Military Orders Containing PII (Name, SSN etc..) and Operational Details 🚨
 https://hackerone.com/reports/2926447
