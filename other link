@@ -22,6 +22,9 @@ Privilege Escalation
 🚨 Privilege Escalation - A Low Privilege User who does not have access to the user management module can remove the owner of the business account 🚨
 https://hackerone.com/reports/2396571
 
+🚨 Privilege Escalation - A Non Owner User Who Does not Have access to the user management can invite other users to the restaurant page 🚨
+https://hackerone.com/reports/2396549
+
 ===============================================================================
 
 Path traversal
