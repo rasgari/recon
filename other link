@@ -58,6 +58,9 @@ https://hackerone.com/reports/2905532
 🚨 ActionView sanitize helper bypass with 'style' and 'svg' tags 🚨
 https://hackerone.com/reports/2931688
 
+🚨 curl allows SSH connection even if host is not in known_hosts 🚨
+https://hackerone.com/reports/2961050
+
 ===============================================================================
 
 Mastering GraphQL Exploitation
