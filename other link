@@ -55,6 +55,8 @@ https://hackerone.com/reports/2342461
 🚨 [CVE-2024-54133] Possible Content Security Policy bypass in Action Dispatch 🚨
 https://hackerone.com/reports/2905532
 
+🚨 ActionView sanitize helper bypass with 'style' and 'svg' tags 🚨
+https://hackerone.com/reports/2931688
 
 ===============================================================================
 
