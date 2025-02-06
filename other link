@@ -52,6 +52,10 @@ https://infosecwriteups.com/ds-store-file-a-gift-for-researchers-and-a-headache-
 🚨 Improper Access Controls(Admin Path) 🚨
 https://hackerone.com/reports/2342461
 
+🚨 [CVE-2024-54133] Possible Content Security Policy bypass in Action Dispatch 🚨
+https://hackerone.com/reports/2905532
+
+
 ===============================================================================
 
 Mastering GraphQL Exploitation
