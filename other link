@@ -61,6 +61,9 @@ https://hackerone.com/reports/2931688
 🚨 curl allows SSH connection even if host is not in known_hosts 🚨
 https://hackerone.com/reports/2961050
 
+🚨 CVE-2024-45230 - Potential denial-of-service in django.utils.html.urlize() (Another pattern) 🚨
+https://hackerone.com/reports/2881639
+
 ===============================================================================
 
 Mastering GraphQL Exploitation
