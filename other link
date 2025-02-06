@@ -67,6 +67,10 @@ https://hackerone.com/reports/2961050
 🚨 CVE-2024-45230 - Potential denial-of-service in django.utils.html.urlize() (Another pattern) 🚨
 https://hackerone.com/reports/2881639
 
+🚨 CVE-2025-0725: gzip integer overflow 🚨
+https://hackerone.com/reports/2956023
+
+
 ===============================================================================
 
 Mastering GraphQL Exploitation
