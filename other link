@@ -111,6 +111,14 @@ https://systemweakness.com/secret-dork-hunting-methodology-part1-6f06b5c47931?so
 
 ===============================================================================
 
+XSS
+
+🚨 XSS on using the legacy "Graphie To Png" API 🚨
+https://hackerone.com/reports/2846011
+
+===============================================================================
+
+
 🚨 Public google drive link Exposes Military Orders Containing PII (Name, SSN etc..) and Operational Details 🚨
 https://hackerone.com/reports/2926447
 
