@@ -84,6 +84,9 @@ https://hackerone.com/reports/2968559
 🚨 CVE-2025-0167: netrc and default credential leak 🚨
 https://hackerone.com/reports/2917232
 
+🚨  CVE-2024-56374 Potential denial-of-service in IPv6 validation 🚨 
+https://hackerone.com/reports/2939077
+
 ===============================================================================
 
 Mastering GraphQL Exploitation
