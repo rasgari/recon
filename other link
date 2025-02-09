@@ -135,6 +135,9 @@ XSS
 🚨 XSS on using the legacy "Graphie To Png" API 🚨
 https://hackerone.com/reports/2846011
 
+🚨 Behind the Message: Two Critical XSS Vulnerabilities in Zoho’s Web Applications 🚨 
+https://infosecwriteups.com/behind-the-message-two-critical-xss-vulnerabilities-in-zohos-web-applications-86aa42887129?source=rss------bug_bounty-5
+
 ===============================================================================
 
 API
