@@ -158,6 +158,9 @@ https://hackerone.com/reports/2846011
 🚨 Behind the Message: Two Critical XSS Vulnerabilities in Zoho’s Web Applications 🚨 
 https://infosecwriteups.com/behind-the-message-two-critical-xss-vulnerabilities-in-zohos-web-applications-86aa42887129?source=rss------bug_bounty-5
 
+🚨 Stored XSS into Onclick Event: Bypassing Angle Brackets, Double Quotes, and Escaped Characters —… 🚨
+https://infosecwriteups.com/stored-xss-into-onclick-event-bypassing-angle-brackets-double-quotes-and-escaped-characters-ee347b9e19d9?source=rss------bug_bounty-5
+
 ===============================================================================
 
 API
