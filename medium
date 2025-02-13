@@ -8,6 +8,9 @@ merge
 🚨 xss and sql injection vulnerability 🚨
 https://medium.com/@MR_NETWORK/xss-and-sql-injection-vulnerability-and-extraction-of-all-important-data-68f819affea2
 
+🚨 Day 8: Self-XSS + Login & Logout CSRF + OAuth Hijacking 🚨
+https://medium.com/@danielbelay/day-8-self-xss-login-logout-csrf-oauth-hijacking-83c848ad9a1e?source=rss------bug_bounty-5
+
 🚨 From Brute-Force to Bounty: My $200 and Double XSS Win on Acronis 🚨
 https://muzamilsheikh.medium.com/from-brute-force-to-bounty-my-200-and-double-xss-win-on-acronis-4fc7c7ccff39?source=rss------bug_bounty-5
 
