@@ -60,6 +60,9 @@ https://infosecwriteups.com/restarting-my-bug-bounty-journey-why-i-quit-and-what
 🚨 Applicant security exam Attachments/Documents accessible through an IDOR/BAC on the custom Apex controller on https://.mil 🚨
 https://hackerone.com/reports/2950536
 
+🚨 Broken Brute-Force Protection: How to Bypass Rate Limiting in a Single Request  —  Authentication… 🚨
+https://infosecwriteups.com/broken-brute-force-protection-how-to-bypass-rate-limiting-in-a-single-request-authentication-a4a761fc0b5a?source=rss------bug_bounty-5
+
 ===============================================================================
 Privilege Escalation
 
