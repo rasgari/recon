@@ -248,6 +248,12 @@ https://systemweakness.com/advanced-techniques-for-identifying-leaked-api-keys-i
 https://hackerone.com/reports/2979176
 
 ===============================================================================
+Information disclosure
+
+🚨 Information disclosure due to debug mode enabled at Laravel instance https://mpos.mtn.co.sz 🚨
+https://hackerone.com/reports/2765259
+
+===============================================================================
 
 🚨 Public google drive link Exposes Military Orders Containing PII (Name, SSN etc..) and Operational Details 🚨
 https://hackerone.com/reports/2926447
