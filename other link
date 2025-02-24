@@ -196,6 +196,9 @@ https://infosecwriteups.com/behind-the-message-two-critical-xss-vulnerabilities-
 🚨 Stored XSS into Onclick Event: Bypassing Angle Brackets, Double Quotes, and Escaped Characters —… 🚨
 https://infosecwriteups.com/stored-xss-into-onclick-event-bypassing-angle-brackets-double-quotes-and-escaped-characters-ee347b9e19d9?source=rss------bug_bounty-5
 
+🚨 LiveZilla Server XSS Vulnerability 🚨
+https://cybersecuritywriteups.com/livezilla-server-xss-vulnerability-81563deea5a8?source=rss------bug_bounty-5
+
 ===============================================================================
 
 CSRF
