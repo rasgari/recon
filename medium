@@ -277,6 +277,13 @@ https://medium.com/@Abhijeet_kumawat_/start-bug-bounty-and-earn-top-write-ups-po
 🚨 How Bug Bounty Programs Scam Hackers and Get Away With It! 🚨
 https://siratsami71.medium.com/how-bug-bounty-programs-scam-hackers-and-get-away-with-it-175fc06ea45b?source=rss------bug_bounty-5
 
+🚨 Bug Bounty Hunting — Complete Guide (Part-111) 🚨
+https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-111-3cd2067c4ec7?source=rss------bug_bounty-5
+
+🚨 Scan React Native APKs for Vulnerable npm Dependencies in 2 Minutes! 🚨
+https://splitunknown.medium.com/scan-react-native-apks-for-vulnerable-npm-dependencies-in-2-minutes-7579df6fe852?source=rss------bug_bounty-5
+
+
 ===============================================================================
 
 Account Takeover
@@ -330,6 +337,10 @@ https://medium.com/@muhammadwaseem29/exploiting-the-log4j-vulnerability-cve-2021
 
 🚨 Exploiting the Shadows: How I Uncovered a Command Injection via OOB and Bagged $800 🚨
 https://medium.com/@kura1yum3/exploiting-the-shadows-how-i-uncovered-a-command-injection-via-oob-and-bagged-800-73c4bc90a130?source=rss------bug_bounty-5
+
+🚨 Exploiting WebView Vulnerabilities: Bypassing SOP to Access Internal App Files 🚨
+https://medium.com/@k3r0/exploiting-webview-vulnerabilities-bypassing-sop-to-access-internal-app-files-2d95529c0293?source=rss------bug_bounty-5
+
 
 ===============================================================================
 
@@ -539,6 +550,8 @@ https://hiddendom.medium.com/idor-nightmare-indian-post-office-portal-exposed-th
 🚨 Bank offer IDOR Fix Bypassed: How I Accessed Unauthorized Offers and Secured a $10,000 Bounty —… 🚨
 https://bxmbn.medium.com/bank-offer-idor-fix-bypassed-how-i-accessed-unauthorized-offers-and-secured-a-10-000-bounty-41052b31a2fc?source=rss------bug_bounty-5
 
+🚨 How I Could Access Anyone’s College Subscription — IDOR Strikes Again! 🚨
+https://medium.com/@shxsu1/how-i-could-access-anyones-college-subscription-idor-strikes-again-a4ea7c30f165?source=rss------bug_bounty-5
 
 ===============================================================================
 
@@ -752,6 +765,9 @@ https://medium.com/@gouravrathod8788/from-sql-injection-to-remote-code-execution
 🚨 Log4j RCE Vulnerability (CVE-2021–44228) Exploitation 🚨
 https://medium.com/@muhammadwaseem29/log4j-rce-vulnerability-cve-2021-44228-exploitation-041ff74e1349?source=rss------bug_bounty-5
 
+🚨 Useless P5 path traversal to RCE ☠️ 🚨
+https://medium.com/@Hossam.Mesbah/useless-p5-path-traversal-to-rce-%EF%B8%8F-d2c8d3b169e2?source=rss------bug_bounty-5
+
 ===============================================================================
 
 dork
@@ -898,6 +914,10 @@ CORS
 
 🚨 Web Academy Lab: CORS vulnerability with basic origin reflection 🚨
 https://medium.com/@mehedihasanemonceh/web-academy-lab-cors-vulnerability-with-basic-origin-reflection-a6130cb49053?source=rss------bug_bounty-5
+
+🚨 CORS (Cross-Origin Resource Sharing) 🚨
+https://medium.com/@julius.grosserode.19/cors-cross-origin-resource-sharing-53b4d5840f92?source=rss------bug_bounty-5
+
 
 
 ================================================================================
