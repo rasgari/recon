@@ -266,10 +266,14 @@ https://hackerone.com/reports/2765259
 
 2FA Bypass
 
-2FA Bypass leads to  impersonation of legimate users
+🚨 2FA Bypass leads to  impersonation of legimate users 🚨
 https://hackerone.com/reports/2885636
 
 ===============================================================================
+
+🚨 Mastering JSRecon: A Comprehensive Guide to Identifying Sensitive Data in JavaScript Files 🚨
+https://systemweakness.com/mastering-jsrecon-a-comprehensive-guide-to-identifying-sensitive-data-in-javascript-files-352771f10659?source=rss------bug_bounty-5
+
 
 🚨 Public google drive link Exposes Military Orders Containing PII (Name, SSN etc..) and Operational Details 🚨
 https://hackerone.com/reports/2926447
